@@ -1,10 +1,9 @@
 <p align="center">
+
 <img src='https://github.com/avijitmobi/EasySkeletonView/blob/master/Example/Screenshots/EasySkeletonView-Dark.gif' width="250" height="500"/>
-<img src='https://github.com/avijitmobi/EasySkeletonView/blob/master/Example/Screenshots/EasySkeletonView-Light.gif' width="250" height="500"/>
-<footer>
 <p>Dark Mode</p>
+<img src='https://github.com/avijitmobi/EasySkeletonView/blob/master/Example/Screenshots/EasySkeletonView-Light.gif' width="250" height="500"/>
 <p>Light Mode</p>
-</footer>
 </p>
 
 # EasySkeletonView
