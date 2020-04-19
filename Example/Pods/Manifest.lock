@@ -1,0 +1,16 @@
+PODS:
+  - EasySkeletonView (0.1.0)
+
+DEPENDENCIES:
+  - EasySkeletonView (from `../`)
+
+EXTERNAL SOURCES:
+  EasySkeletonView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EasySkeletonView: 9e8f85c3576dd82a084784d3e56beb58c3e669e7
+
+PODFILE CHECKSUM: 46ae194a138fd82ed00dfeb75e3476a45ff00a7b
+
+COCOAPODS: 1.9.1

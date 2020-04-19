@@ -1,0 +1,22 @@
+{
+  "name": "EasySkeletonView",
+  "version": "0.1.0",
+  "summary": "A short description of EasySkeletonView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/avijitmobi/EasySkeletonView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "avijitmobi": "avijit.m@convergentinfoware.com"
+  },
+  "source": {
+    "git": "https://github.com/avijitmobi/EasySkeletonView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EasySkeletonView/Classes/**/*"
+}

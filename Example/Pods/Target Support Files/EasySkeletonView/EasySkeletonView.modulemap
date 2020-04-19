@@ -1,0 +1,6 @@
+framework module EasySkeletonView {
+  umbrella header "EasySkeletonView-umbrella.h"
+
+  export *
+  module * { export * }
+}
