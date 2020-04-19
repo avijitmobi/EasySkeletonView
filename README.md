@@ -1,6 +1,6 @@
 <p align="center">
-<img src='https://github.com/avijitmobi/EasyImageVideoPicker/blob/master/Example/ScreenShots/EasySkeletonView-Dark.gif' width="250" height="500"/>
-<img src='https://github.com/avijitmobi/EasyImageVideoPicker/blob/master/Example/ScreenShots/EasySkeletonView-Light.gif' width="250" height="500"/>
+<img src='https://github.com/avijitmobi/EasySkeletonView/blob/master/Example/Screenshots/EasySkeletonView-Dark.gif' width="250" height="500"/>
+<img src='https://github.com/avijitmobi/EasySkeletonView/blob/master/Example/Screenshots/EasySkeletonView-Light.gif' width="250" height="500"/>
 <footer>
 <p>Dark Mode</p>
 <p>Light Mode</p>
