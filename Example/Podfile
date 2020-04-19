@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EasySkeletonView_Example' do
+  pod 'EasySkeletonView', :path => '../'
+
+  target 'EasySkeletonView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
